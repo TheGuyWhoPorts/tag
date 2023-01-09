@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gfgorilla.png">
+<SubTexture name="gfgorilla left0000" x="1171" y="796" width="1171" height="367" frameX="-75" frameY="-92" frameWidth="1328" frameHeight="499" />
+<SubTexture name="gfgorilla left0001" x="1171" y="0" width="1171" height="389" frameX="-75" frameY="-70" frameWidth="1328" frameHeight="499" />
+<SubTexture name="gfgorilla left0002" x="0" y="0" width="1171" height="398" frameX="-75" frameY="-61" frameWidth="1328" frameHeight="499" />
+<SubTexture name="gfgorilla right0000" x="0" y="796" width="1171" height="370" frameX="-75" frameY="-89" frameWidth="1328" frameHeight="499" />
+<SubTexture name="gfgorilla right0001" x="1171" y="389" width="1171" height="384" frameX="-75" frameY="-75" frameWidth="1328" frameHeight="499" />
+<SubTexture name="gfgorilla right0002" x="0" y="398" width="1171" height="398" frameX="-75" frameY="-61" frameWidth="1328" frameHeight="499" />
+</TextureAtlas>

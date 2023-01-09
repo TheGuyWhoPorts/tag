@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="buffemoji.png">
+<SubTexture name="buffemoji down0000" x="4688" y="0" width="1184" height="967" frameX="-53" frameY="-368" frameWidth="1346" frameHeight="1356" />
+<SubTexture name="buffemoji down0001" x="4688" y="1927" width="1184" height="940" frameX="-53" frameY="-395" frameWidth="1346" frameHeight="1356" />
+<SubTexture name="buffemoji down0002" x="0" y="3925" width="1184" height="924" frameX="-53" frameY="-411" frameWidth="1346" frameHeight="1356" />
+<SubTexture name="buffemoji idle0000" x="4688" y="967" width="833" height="960" frameX="-216" frameY="-223" frameWidth="1346" frameHeight="1356" />
+<SubTexture name="buffemoji idle0001" x="4688" y="2867" width="833" height="932" frameX="-216" frameY="-251" frameWidth="1346" frameHeight="1356" />
+<SubTexture name="buffemoji idle0002" x="4688" y="967" width="833" height="960" frameX="-216" frameY="-223" frameWidth="1346" frameHeight="1356" />
+<SubTexture name="buffemoji idle0003" x="2520" y="2924" width="833" height="987" frameX="-216" frameY="-196" frameWidth="1346" frameHeight="1356" />
+<SubTexture name="buffemoji idle0004" x="1543" y="1462" width="833" height="1010" frameX="-216" frameY="-173" frameWidth="1346" frameHeight="1356" />
+<SubTexture name="buffemoji left0000" x="3086" y="0" width="800" height="1009" frameX="-232" frameY="-174" frameWidth="1357" frameHeight="1317" />
+<SubTexture name="buffemoji left0001" x="3886" y="0" width="802" height="1002" frameX="-219" frameY="-181" frameWidth="1357" frameHeight="1317" />
+<SubTexture name="buffemoji left0002" x="0" y="2924" width="825" height="1001" frameX="-188" frameY="-182" frameWidth="1357" frameHeight="1317" />
+<SubTexture name="buffemoji right0000" x="825" y="2924" width="843" height="999" frameX="-229" frameY="-184" frameWidth="1357" frameHeight="1317" />
+<SubTexture name="buffemoji right0001" x="1668" y="2924" width="852" height="990" frameX="-240" frameY="-193" frameWidth="1357" frameHeight="1317" />
+<SubTexture name="buffemoji right0002" x="3353" y="2924" width="860" height="978" frameX="-248" frameY="-205" frameWidth="1357" frameHeight="1317" />
+<SubTexture name="buffemoji up0000" x="0" y="0" width="1543" height="1462" frameX="0" frameY="0" frameWidth="1543" frameHeight="1503" />
+<SubTexture name="buffemoji up0001" x="1543" y="0" width="1543" height="1462" frameX="0" frameY="-92" frameWidth="1543" frameHeight="1607" />
+<SubTexture name="buffemoji up0002" x="0" y="1462" width="1543" height="1462" frameX="0" frameY="-73" frameWidth="1543" frameHeight="1607" />
+</TextureAtlas>

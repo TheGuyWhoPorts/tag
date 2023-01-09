@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jmangorillalava.png">
+<SubTexture name="jmangorillalava idle0000" x="398" y="873" width="398" height="743" frameX="-123" frameY="-46" frameWidth="666" frameHeight="815" />
+<SubTexture name="jmangorillalava idle0001" x="796" y="873" width="398" height="733" frameX="-123" frameY="-56" frameWidth="666" frameHeight="815" />
+<SubTexture name="jmangorillalava idle0002" x="398" y="873" width="398" height="743" frameX="-123" frameY="-46" frameWidth="666" frameHeight="815" />
+<SubTexture name="jmangorillalava idle0003" x="0" y="873" width="398" height="750" frameX="-123" frameY="-39" frameWidth="666" frameHeight="815" />
+<SubTexture name="jmangorillalava idle0004" x="793" y="0" width="398" height="756" frameX="-123" frameY="-33" frameWidth="666" frameHeight="815" />
+<SubTexture name="jmangorillalava down0000" x="1194" y="873" width="413" height="696" frameX="-144" frameY="-92" frameWidth="666" frameHeight="815" />
+<SubTexture name="jmangorillalava down0001" x="1951" y="0" width="413" height="683" frameX="-144" frameY="-105" frameWidth="666" frameHeight="815" />
+<SubTexture name="jmangorillalava left0000" x="1191" y="0" width="382" height="752" frameX="-124" frameY="-36" frameWidth="666" frameHeight="815" />
+<SubTexture name="jmangorillalava left0001" x="1573" y="0" width="378" height="751" frameX="-118" frameY="-37" frameWidth="666" frameHeight="815" />
+<SubTexture name="jmangorillalava right0000" x="1951" y="683" width="352" height="611" frameX="-141" frameY="-38" frameWidth="666" frameHeight="815" />
+<SubTexture name="jmangorillalava right0001" x="0" y="1623" width="351" height="606" frameX="-142" frameY="-43" frameWidth="666" frameHeight="815" />
+<SubTexture name="jmangorillalava up0000" x="394" y="0" width="399" height="853" frameX="-113" frameY="-52" frameWidth="642" frameHeight="921" />
+<SubTexture name="jmangorillalava up0001" x="0" y="0" width="394" height="873" frameX="-113" frameY="-32" frameWidth="642" frameHeight="921" />
+</TextureAtlas>

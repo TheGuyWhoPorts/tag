@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Jmancurly.png">
+<SubTexture name="Jmancurly idle0000" x="2085" y="1345" width="511" height="670" frameX="-105" frameY="-163" frameWidth="810" frameHeight="959" />
+<SubTexture name="Jmancurly idle0001" x="2616" y="0" width="525" height="654" frameX="-100" frameY="-179" frameWidth="810" frameHeight="959" />
+<SubTexture name="Jmancurly idle0002" x="2085" y="674" width="511" height="671" frameX="-105" frameY="-162" frameWidth="810" frameHeight="959" />
+<SubTexture name="Jmancurly idle0003" x="0" y="717" width="498" height="685" frameX="-114" frameY="-148" frameWidth="810" frameHeight="959" />
+<SubTexture name="Jmancurly idle0004" x="0" y="717" width="498" height="685" frameX="-114" frameY="-148" frameWidth="810" frameHeight="959" />
+<SubTexture name="Jmancurly idle0005" x="0" y="717" width="498" height="685" frameX="-114" frameY="-148" frameWidth="810" frameHeight="959" />
+<SubTexture name="Jmancurly idle0006" x="0" y="717" width="498" height="685" frameX="-114" frameY="-148" frameWidth="810" frameHeight="959" />
+<SubTexture name="Jmancurly down0000" x="1587" y="0" width="498" height="679" frameX="-114" frameY="-154" frameWidth="810" frameHeight="959" />
+<SubTexture name="Jmancurly down0001" x="1587" y="679" width="458" height="656" frameX="-138" frameY="-177" frameWidth="810" frameHeight="959" />
+<SubTexture name="Jmancurly down0002" x="2616" y="654" width="425" height="638" frameX="-152" frameY="-195" frameWidth="810" frameHeight="959" />
+<SubTexture name="Jmancurly down0003" x="2616" y="654" width="425" height="638" frameX="-152" frameY="-195" frameWidth="810" frameHeight="959" />
+<SubTexture name="Jmancurly down0004" x="2616" y="654" width="425" height="638" frameX="-152" frameY="-195" frameWidth="810" frameHeight="959" />
+<SubTexture name="Jmancurly left0000" x="996" y="717" width="498" height="680" frameX="-114" frameY="-153" frameWidth="810" frameHeight="959" />
+<SubTexture name="Jmancurly left0001" x="1053" y="1402" width="519" height="674" frameX="-89" frameY="-159" frameWidth="810" frameHeight="959" />
+<SubTexture name="Jmancurly left0002" x="2085" y="0" width="531" height="674" frameX="-72" frameY="-159" frameWidth="810" frameHeight="959" />
+<SubTexture name="Jmancurly left0003" x="2085" y="0" width="531" height="674" frameX="-72" frameY="-159" frameWidth="810" frameHeight="959" />
+<SubTexture name="Jmancurly left0004" x="2085" y="0" width="531" height="674" frameX="-72" frameY="-159" frameWidth="810" frameHeight="959" />
+<SubTexture name="Jmancurly right0000" x="498" y="717" width="498" height="685" frameX="-114" frameY="-148" frameWidth="810" frameHeight="959" />
+<SubTexture name="Jmancurly right0001" x="0" y="1402" width="519" height="678" frameX="-119" frameY="-155" frameWidth="810" frameHeight="959" />
+<SubTexture name="Jmancurly right0002" x="519" y="1402" width="534" height="677" frameX="-125" frameY="-156" frameWidth="810" frameHeight="959" />
+<SubTexture name="Jmancurly right0003" x="519" y="1402" width="534" height="677" frameX="-125" frameY="-156" frameWidth="810" frameHeight="959" />
+<SubTexture name="Jmancurly right0004" x="519" y="1402" width="534" height="677" frameX="-125" frameY="-156" frameWidth="810" frameHeight="959" />
+<SubTexture name="Jmancurly up0000" x="1089" y="0" width="498" height="690" frameX="-114" frameY="-143" frameWidth="810" frameHeight="959" />
+<SubTexture name="Jmancurly up0001" x="556" y="0" width="533" height="696" frameX="-92" frameY="-137" frameWidth="810" frameHeight="959" />
+<SubTexture name="Jmancurly up0002" x="0" y="0" width="556" height="717" frameX="-82" frameY="-116" frameWidth="810" frameHeight="959" />
+<SubTexture name="Jmancurly up0003" x="0" y="0" width="556" height="717" frameX="-82" frameY="-116" frameWidth="810" frameHeight="959" />
+<SubTexture name="Jmancurly up0004" x="0" y="0" width="556" height="717" frameX="-82" frameY="-116" frameWidth="810" frameHeight="959" />
+</TextureAtlas>

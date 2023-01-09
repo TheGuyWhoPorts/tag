@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfgorilla.png">
+<SubTexture name="bfgorilla down0000" x="2187" y="650" width="391" height="644" frameX="-115" frameY="-43" frameWidth="642" frameHeight="711" />
+<SubTexture name="bfgorilla down0001" x="0" y="2163" width="389" height="626" frameX="-117" frameY="-61" frameWidth="642" frameHeight="711" />
+<SubTexture name="bfgorilla missnotedown0000" x="2187" y="0" width="391" height="650" frameX="-115" frameY="-37" frameWidth="642" frameHeight="711" />
+<SubTexture name="bfgorilla missnotedown0001" x="2187" y="1294" width="389" height="640" frameX="-117" frameY="-47" frameWidth="642" frameHeight="711" />
+<SubTexture name="bfgorilla idle0000" x="2578" y="0" width="370" height="639" frameX="-136" frameY="-48" frameWidth="642" frameHeight="711" />
+<SubTexture name="bfgorilla idle0001" x="2578" y="639" width="370" height="633" frameX="-136" frameY="-54" frameWidth="642" frameHeight="711" />
+<SubTexture name="bfgorilla idle0002" x="1541" y="1510" width="370" height="651" frameX="-136" frameY="-36" frameWidth="642" frameHeight="711" />
+<SubTexture name="bfgorilla idle0003" x="1743" y="663" width="370" height="657" frameX="-136" frameY="-30" frameWidth="642" frameHeight="711" />
+<SubTexture name="bfgorilla idle0004" x="0" y="847" width="370" height="663" frameX="-136" frameY="-24" frameWidth="642" frameHeight="711" />
+<SubTexture name="bfgorilla left0000" x="388" y="1510" width="387" height="652" frameX="-107" frameY="-35" frameWidth="642" frameHeight="711" />
+<SubTexture name="bfgorilla left0001" x="0" y="1510" width="388" height="653" frameX="-99" frameY="-34" frameWidth="642" frameHeight="711" />
+<SubTexture name="bfgorilla missnoteleft0000" x="775" y="1510" width="381" height="652" frameX="-118" frameY="-35" frameWidth="642" frameHeight="711" />
+<SubTexture name="bfgorilla missnoteleft0001" x="1156" y="1510" width="385" height="652" frameX="-105" frameY="-35" frameWidth="642" frameHeight="711" />
+<SubTexture name="bfgorilla right0000" x="370" y="847" width="448" height="663" frameX="-59" frameY="-24" frameWidth="642" frameHeight="711" />
+<SubTexture name="bfgorilla right0001" x="818" y="847" width="444" height="663" frameX="-69" frameY="-24" frameWidth="642" frameHeight="711" />
+<SubTexture name="bfgorilla missnoteright0000" x="1262" y="847" width="440" height="663" frameX="-70" frameY="-24" frameWidth="642" frameHeight="711" />
+<SubTexture name="bfgorilla missnoteright0001" x="1743" y="0" width="444" height="663" frameX="-70" frameY="-24" frameWidth="642" frameHeight="711" />
+<SubTexture name="bfgorilla up0000" x="410" y="0" width="434" height="835" frameX="-72" frameY="-62" frameWidth="642" frameHeight="921" />
+<SubTexture name="bfgorilla up0001" x="0" y="0" width="410" height="847" frameX="-96" frameY="-50" frameWidth="642" frameHeight="921" />
+<SubTexture name="bfgorilla missnoteup0000" x="844" y="0" width="430" height="819" frameX="-76" frameY="-78" frameWidth="642" frameHeight="921" />
+<SubTexture name="bfgorilla missnoteup0001" x="1274" y="0" width="469" height="788" frameX="-37" frameY="-109" frameWidth="642" frameHeight="921" />
+</TextureAtlas>

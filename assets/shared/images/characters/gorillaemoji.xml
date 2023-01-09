@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gorillaemoji.png">
+<SubTexture name="gorillaemoji down0000" x="0" y="0" width="459" height="446" frameX="-132" frameY="-264" frameWidth="722" frameHeight="910" />
+<SubTexture name="gorillaemoji idle0000" x="459" y="0" width="459" height="446" frameX="-132" frameY="-264" frameWidth="722" frameHeight="910" />
+<SubTexture name="gorillaemoji left0000" x="0" y="446" width="459" height="446" frameX="-132" frameY="-264" frameWidth="722" frameHeight="910" />
+<SubTexture name="gorillaemoji right0000" x="459" y="446" width="459" height="446" frameX="-132" frameY="-264" frameWidth="722" frameHeight="910" />
+<SubTexture name="gorillaemoji up0000" x="918" y="0" width="459" height="446" frameX="-132" frameY="-264" frameWidth="722" frameHeight="910" />
+</TextureAtlas>

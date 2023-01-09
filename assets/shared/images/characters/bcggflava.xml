@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bcggflava.png">
+<SubTexture name="bcggflava danceleft0000" x="0" y="2701" width="2551" height="870" frameX="-79" frameY="-73" frameWidth="2696" frameHeight="981" />
+<SubTexture name="bcggflava danceleft0001" x="0" y="1814" width="2551" height="887" frameX="-79" frameY="-56" frameWidth="2696" frameHeight="981" />
+<SubTexture name="bcggflava danceleft0002" x="2551" y="0" width="2551" height="898" frameX="-79" frameY="-45" frameWidth="2696" frameHeight="981" />
+<SubTexture name="bcggflava danceleft0003" x="0" y="0" width="2551" height="907" frameX="-79" frameY="-36" frameWidth="2696" frameHeight="981" />
+<SubTexture name="bcggflava danceleft0004" x="0" y="0" width="2551" height="907" frameX="-79" frameY="-36" frameWidth="2696" frameHeight="981" />
+<SubTexture name="bcggflava danceright0000" x="2551" y="2701" width="2551" height="870" frameX="-79" frameY="-73" frameWidth="2696" frameHeight="981" />
+<SubTexture name="bcggflava danceright0001" x="2551" y="1814" width="2551" height="887" frameX="-79" frameY="-56" frameWidth="2696" frameHeight="981" />
+<SubTexture name="bcggflava danceright0002" x="2551" y="898" width="2551" height="898" frameX="-79" frameY="-45" frameWidth="2696" frameHeight="981" />
+<SubTexture name="bcggflava danceright0003" x="0" y="907" width="2551" height="907" frameX="-79" frameY="-36" frameWidth="2696" frameHeight="981" />
+<SubTexture name="bcggflava danceright0004" x="0" y="907" width="2551" height="907" frameX="-79" frameY="-36" frameWidth="2696" frameHeight="981" />
+</TextureAtlas>

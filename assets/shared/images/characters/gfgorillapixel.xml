@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gfgorillapixel.png">
+<SubTexture name="gfgorillapixel left0000" x="0" y="0" width="1086" height="380" frameX="-37" frameY="-11" frameWidth="1151" frameHeight="436" />
+<SubTexture name="gfgorillapixel left0001" x="0" y="380" width="1086" height="370" frameX="-37" frameY="-21" frameWidth="1151" frameHeight="436" />
+<SubTexture name="gfgorillapixel left0002" x="1086" y="363" width="1086" height="354" frameX="-37" frameY="-37" frameWidth="1151" frameHeight="436" />
+<SubTexture name="gfgorillapixel left0003" x="0" y="750" width="1086" height="341" frameX="-37" frameY="-50" frameWidth="1151" frameHeight="436" />
+<SubTexture name="gfgorillapixel left0004" x="1086" y="0" width="1086" height="363" frameX="-37" frameY="-28" frameWidth="1151" frameHeight="436" />
+<SubTexture name="gfgorillapixel right0000" x="0" y="750" width="1086" height="341" frameX="-37" frameY="-50" frameWidth="1151" frameHeight="436" />
+<SubTexture name="gfgorillapixel right0001" x="1086" y="363" width="1086" height="354" frameX="-37" frameY="-37" frameWidth="1151" frameHeight="436" />
+<SubTexture name="gfgorillapixel right0002" x="0" y="380" width="1086" height="370" frameX="-37" frameY="-21" frameWidth="1151" frameHeight="436" />
+<SubTexture name="gfgorillapixel right0003" x="0" y="0" width="1086" height="380" frameX="-37" frameY="-11" frameWidth="1151" frameHeight="436" />
+</TextureAtlas>
