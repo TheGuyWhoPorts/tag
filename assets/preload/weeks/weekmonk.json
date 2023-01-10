@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"monkcord",
+			"emoji",
+			[
+				86,
+				86,
+				86
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "monke",
+	"weekName": "monke",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

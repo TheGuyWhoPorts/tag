@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"first-round",
+			"gorilla",
+			[
+				66,
+				126,
+				66
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "gorillatag",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "TIME TO HAVE A GORILLA NIGHT BATTLE",
+	"weekName": "weekG",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
