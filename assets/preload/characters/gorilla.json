@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Gorilla left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				-13
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Gorilla down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-15
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Gorilla right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				103,
+				-18
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Gorilla up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Gorilla idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Gorilla",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gorilla",
+	"flip_x": false,
+	"healthbar_colors": [
+		95,
+		95,
+		95
+	],
+	"camera_position": [
+		-300,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

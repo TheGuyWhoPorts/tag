@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				503,
+				483
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "buffemoji left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				526,
+				493
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "buffemoji down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				515,
+				486
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "buffemoji right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				611,
+				643
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "buffemoji up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				510,
+				486
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "buffemoji idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/buffemoji",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "emojiangry",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		75,
+		75
+	],
+	"camera_position": [
+		-710,
+		-460
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

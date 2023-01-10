@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				138,
+				42
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Majora left"
+		},
+		{
+			"offsets": [
+				77,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Majora down"
+		},
+		{
+			"offsets": [
+				82,
+				41
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Majora right"
+		},
+		{
+			"offsets": [
+				80,
+				38
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Majora up"
+		},
+		{
+			"offsets": [
+				80,
+				41
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Majora idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Majora",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Majora",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		75,
+		255
+	],
+	"camera_position": [
+		-320,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

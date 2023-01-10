@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				-137
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "gfgorillapixel left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				-140
+			],
+			"anim": "danceRight",
+			"fps": 26,
+			"name": "gfgorillapixel right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gfgorillapixel",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-610,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1.9
+}

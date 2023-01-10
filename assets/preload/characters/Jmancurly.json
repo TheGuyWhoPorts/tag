@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				136,
+				90
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Jmancurly left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				96
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Jmancurly down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				145,
+				91
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Jmancurly right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				86
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Jmancurly up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				90
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Jmancurly idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Jmancurly",
+	"position": [
+		170,
+		-40
+	],
+	"healthicon": "Jman",
+	"flip_x": false,
+	"healthbar_colors": [
+		35,
+		175,
+		215
+	],
+	"camera_position": [
+		-470,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

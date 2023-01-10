@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				120,
+				76
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "gorillaemoji left"
+		},
+		{
+			"offsets": [
+				121,
+				76
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "gorillaemoji down"
+		},
+		{
+			"offsets": [
+				120,
+				76
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "gorillaemoji right"
+		},
+		{
+			"offsets": [
+				120,
+				76
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "gorillaemoji up"
+		},
+		{
+			"offsets": [
+				120,
+				76
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "gorillaemoji idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gorillaemoji",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "emoji",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		142,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

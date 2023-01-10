@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				75,
+				280
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "bfgorilla idle"
+		},
+		{
+			"offsets": [
+				75,
+				280
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bfgorilla left"
+		},
+		{
+			"offsets": [
+				75,
+				281
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bfgorilla down"
+		},
+		{
+			"offsets": [
+				75,
+				490
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bfgorilla up"
+		},
+		{
+			"offsets": [
+				74,
+				280
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bfgorilla right"
+		},
+		{
+			"offsets": [
+				75,
+				279
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "bfgorilla missnoteleft"
+		},
+		{
+			"offsets": [
+				75,
+				280
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "bfgorilla missnotedown"
+		},
+		{
+			"offsets": [
+				75,
+				492
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "bfgorilla missnoteup"
+		},
+		{
+			"offsets": [
+				76,
+				281
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "bfgorilla missnoteright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfgorilla",
+	"position": [
+		0,
+		340
+	],
+	"healthicon": "bfgorilla",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
